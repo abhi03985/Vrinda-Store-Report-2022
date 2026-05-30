@@ -135,7 +135,7 @@ visuals simultaneously:
 
 | File | Description |
 |---|---|
-| `vrinda_store_sales_2022.xlsx` | Excel workbook with dashboard |
+| `Vrinda Store Data Analysis.xlsx` | Excel workbook with dashboard |
 | `Vrinda_excel_dashboard_png.png` | Dashboard screenshot |
 
 ---
