@@ -22,10 +22,11 @@ Interactive <b>Microsoft Excel Dashboard</b> for analyzing sales performance, cu
 
 # 📊 Dashboard Preview
 
-<p align="center">
-<img src="Vrinda_excel_dashboard_png.png" width="100%">
-</p>
+# 📊 Dashboard Preview
 
+<p align="center">
+  <img src="Vrinda%20excel%20dashboard.png.png" width="100%" alt="Vrinda Store Excel Dashboard">
+</p>
 ---
 
 # 🎯 Project Overview
