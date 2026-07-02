@@ -20,7 +20,6 @@ Interactive <b>Microsoft Excel Dashboard</b> for analyzing sales performance, cu
 
 ---
 
-# 📊 Dashboard Preview
 
 # 📊 Dashboard Preview
 
