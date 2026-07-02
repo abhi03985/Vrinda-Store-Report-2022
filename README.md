@@ -1,162 +1,195 @@
-# 🛍️ Vrinda Store Annual Sales Report 2022 — Microsoft Excel
+<h1 align="center">
+🛍️ Vrinda Store Annual Sales Report 2022
+</h1>
 
-A comprehensive Excel dashboard analyzing Vrinda Store's 2022 sales data
-across channels, states, customer demographics, and order fulfillment —
-built to help business owners identify their strongest revenue drivers
-and optimize channel strategy.
+<p align="center">
+Interactive <b>Microsoft Excel Dashboard</b> for analyzing sales performance, customer behavior, order fulfillment, and channel-wise business insights.
+</p>
 
----
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=FF6F00&center=true&vCenter=true&width=900&lines=Vrinda+Store+Sales+Dashboard;Microsoft+Excel+Project;Sales+Analytics;Interactive+Business+Dashboard;Data-Driven+Decision+Making"/>
+</p>
 
-## 📊 Dashboard Preview
-
-![Vrinda Store Dashboard](Vrinda_excel_dashboard_png.png)
-
----
-
-## 🎯 Problem Statement
-
-Vrinda Store sells across multiple e-commerce platforms simultaneously
-(Ajio, Amazon, Flipkart, Meesho, Myntra and others). Without a unified
-annual report, it's hard to answer: Which platform brings the most
-revenue? Which states drive the most orders? Are men or women the
-primary buyers — and does that shift by age group? This dashboard
-answers all of that in one interactive Excel view.
+<p align="center">
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pivot%20Tables-00A651?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-FF9800?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Interactive%20Dashboard-success?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=abhi03985&style=for-the-badge&color=blue"/>
+</p>
 
 ---
 
-## 📁 Dataset
+# 📊 Dashboard Preview
 
-- **Store:** Vrinda Store (Indian fashion & apparel)
-- **Period:** January – November 2022
-- **Channels:** Ajio, Amazon, Flipkart, Meesho, Myntra, Others
-- **Categories:** Blouse, Bottom, Ethnic Dress, Kurta, Saree, and more
-
----
-
-## 🔑 Key Findings at a Glance
-
-| Metric | Value |
-|---|---|
-| Top sales channel | Myntra (39%) |
-| Second largest channel | Ajio (29%) |
-| Orders delivered successfully | 94% |
-| Women's share of purchases | 96% |
-| Top performing state | Telangana |
-| Peak sales months | March – May |
+<p align="center">
+<img src="Vrinda_excel_dashboard_png.png" width="100%">
+</p>
 
 ---
 
-## 📌 Dashboard Visuals
+# 🎯 Project Overview
 
-### 1. Orders vs Sales (Monthly Trend)
-- Dual-axis combo chart tracking order count and sales amount
-  month by month (Jan–Nov)
-- Sales peak in **March–May**, with a gradual decline toward year-end
-- Helps identify seasonal demand cycles for inventory planning
+This **interactive Excel Dashboard** provides a complete analysis of **Vrinda Store's Annual Sales (2022)** by tracking sales trends, customer demographics, top-performing states, sales channels, and order status.
 
-### 2. Sales: Top 5 States
-- Horizontal bar chart ranking states by total sales value
-- **Telangana** leads, followed by Maharashtra, Madhya Pradesh,
-  Karnataka, and Bihar
-- Useful for targeting regional marketing and stock allocation
-
-### 3. Orders Channel (Platform Mix)
-- Pie chart showing share of orders by platform:
-  - Myntra: 39%
-  - Ajio: 29%
-  - Meesho: 25%
-  - Amazon: 2%
-  - Flipkart: 2%
-  - Others: 1%
-- Myntra + Ajio together account for **68% of all orders**
-
-### 4. Sales: Men vs Women
-- Pie chart showing gender split of buyers
-- **Women: 96%**, Men: 4%
-- Strong signal to tailor product listings and ad targeting
-  toward female shoppers
-
-### 5. Order Status Breakdown
-- Pie chart of fulfillment outcomes:
-  - Delivered: **94%**
-  - Returned: 3%
-  - Refunded: 1%
-  - Cancelled: 2%
-- High delivery rate indicates strong logistics performance
-
-### 6. Orders: Age vs Gender
-- Grouped bar chart comparing male and female order share
-  across three age groups
-- **Adult women dominate at 48.03%**
-- Senior women: 15.72%, Teenager women: 33.19%
-- Men's share is minimal across all age groups (under 2%)
+Using **Pivot Tables, Pivot Charts, Slicers, and Excel formulas**, the dashboard converts raw sales data into meaningful business insights that support inventory planning, marketing strategy, and revenue optimization.
 
 ---
 
-## 🎛️ Interactive Slicers
+# ⚡ Dashboard Highlights
 
-The dashboard includes three dynamic slicers that filter all
-visuals simultaneously:
-
-| Slicer | Options |
-|---|---|
-| Channel | Ajio, Amazon, Flipkart, Meesho, Myntra |
-| Month | Jan through Nov |
-| Category | Blouse, Bottom, Ethnic Dress, Kurta, Saree... |
-
----
-
-## 💡 Key Business Insights
-
-- **Myntra and Ajio are the priority channels** — together they drive
-  68% of orders; ad spend and listings should be optimized here first
-- **Women aged 18–35 are the core customer base** — product photography,
-  descriptions, and promotions should speak directly to this segment
-- **March to May is peak season** — stock up and launch campaigns
-  before February to capture maximum demand
-- **94% delivery rate is strong**, but the 3% return rate in categories
-  like ethnic wear warrants a sizing/description review
-- **Bihar and Karnataka are emerging states** — relatively lower sales
-  but consistent ordering, worth targeting with regional promotions
+| 📌 KPI | 📈 Result |
+|:------|---------:|
+| 🛒 Top Sales Channel | **Myntra (39%)** |
+| 🥈 Second Largest Channel | **Ajio (29%)** |
+| 🚚 Successful Deliveries | **94%** |
+| 👩 Women Customers | **96%** |
+| 🌍 Top Performing State | **Telangana** |
+| 📈 Peak Sales Season | **March – May** |
 
 ---
 
-## 🛠️ Tools Used
+# 🚀 Dashboard Features
 
-- **Microsoft Excel** — Pivot Tables, Pivot Charts, Slicers,
-  Dashboard layout
-- **Excel Formulas** — Data cleaning, aggregation, and category mapping
-- **Chart types used** — Combo chart, horizontal bar, pie charts,
-  grouped bar chart
+📅 **Monthly Sales vs Orders**
 
----
+📦 **Order Status Analysis**
 
-## 📂 Files in This Repository
+👩 **Gender-wise Customer Analysis**
 
-| File | Description |
-|---|---|
-| `Vrinda Store Data Analysis.xlsx` | Excel workbook with dashboard |
-| `Vrinda_excel_dashboard_png.png` | Dashboard screenshot |
+👥 **Age vs Gender Distribution**
 
----
+🌍 **Top 5 Performing States**
 
-## 🚀 How to Use
+🛒 **Sales Channel Performance**
 
-1. Download `vrinda_store_sales_2022.xlsx`
-2. Open in **Microsoft Excel** (2016 or later recommended)
-3. Navigate to the **"Vrinda Store Report 2022"** sheet
-4. Use the **Channel, Month, and Category slicers** on the left
-   to dynamically filter all charts
-5. Individual data sheets (sales vs chart, men vs women, order
-   status, states, age and gender, channel) are available as
-   separate tabs for deeper exploration
+🎛️ **Interactive Excel Slicers**
+- Month
+- Category
+- Sales Channel
 
 ---
 
-## 👤 Author
+# 💡 Business Insights
 
-**Abhinav Verma**
-Aspiring Data & Business Analyst | Power BI · SQL · Excel
-📧 abhinavverma03985@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/abhinav-verma-56147b40a) |
-[GitHub](https://github.com/abhi03985)
+✔️ **Myntra + Ajio contribute 68% of total orders**, making them the primary revenue channels.
+
+✔️ **Women account for 96% of purchases**, highlighting the store's core customer segment.
+
+✔️ **March–May is the strongest sales period**, making it the ideal window for promotions and inventory expansion.
+
+✔️ **94% delivery success** indicates excellent operational efficiency with minimal returns and cancellations.
+
+✔️ **Telangana leads all states** in sales, while Karnataka and Bihar present strong growth opportunities.
+
+---
+
+# 🛠️ Tools & Skills Used
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pivot%20Tables-00A651?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Pivot%20Charts-FF9800?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Excel%20Formulas-0D47A1?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📂 Repository Structure
+
+```text
+📦 Vrinda-Store-Sales-Report
+│
+├── Vrinda Store Data Analysis.xlsx
+├── Vrinda_excel_dashboard_png.png
+└── README.md
+```
+
+---
+
+# 📈 Analytics Workflow
+
+```text
+Raw Sales Data
+      │
+      ▼
+Data Cleaning
+      │
+      ▼
+Excel Formulas
+      │
+      ▼
+Pivot Tables
+      │
+      ▼
+Pivot Charts
+      │
+      ▼
+Interactive Slicers
+      │
+      ▼
+Business Insights
+```
+
+---
+
+# 🎥 Dashboard Animation
+
+<p align="center">
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="700"/>
+</p>
+
+---
+
+# 📊 Data Analysis Process
+
+<p align="center">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="210"/>
+
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="210"/>
+
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="210"/>
+
+</p>
+
+---
+
+# ⭐ Support
+
+<p align="center">
+
+If you found this project helpful, consider giving it a ⭐ on GitHub!
+
+</p>
+
+---
+
+<h3 align="center">
+👨‍💻 Abhinav Verma
+</h3>
+
+<p align="center">
+
+Data Analyst • Excel • SQL • Power BI • Python
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/abhi03985">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/abhinav-verma-56147b40a">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
